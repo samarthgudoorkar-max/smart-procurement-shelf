@@ -1,10 +1,17 @@
 # Smart Procurement Shelf — An Edge-AI Based Smart Inventory and Procurement System
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-samarthgudoorkar--max.github.io-success?style=for-the-badge&logo=github)](https://samarthgudoorkar-max.github.io/smart-procurement-shelf/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/samarthgudoorkar-max/smart-procurement-shelf)
+
 [![React](https://img.shields.io/badge/React-18.3-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-6.0-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-3.4-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Symposium](https://img.shields.io/badge/Event-MakeInSilicon_'26-4F46E5)](https://www.iiitnr.ac.in/)
+
+🔗 **Live Production Demo**: [https://samarthgudoorkar-max.github.io/smart-procurement-shelf/](https://samarthgudoorkar-max.github.io/smart-procurement-shelf/)  
+📁 **GitHub Repository**: [https://github.com/samarthgudoorkar-max/smart-procurement-shelf](https://github.com/samarthgudoorkar-max/smart-procurement-shelf)  
+👤 **GitHub Username**: `samarthgudoorkar-max`  
 
 > **Research Prototype presented at MakeInSilicon Symposium — IIIT Naya Raipur**  
 > **Authors:** Samarth Gudoorkar & KSK Sasank  
